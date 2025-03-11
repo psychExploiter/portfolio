@@ -493,6 +493,19 @@ section.active {
   margin-top: -50%;
 }
 
+
+@media (max-width:768px) {
+  #contact{
+    margin-top: -555%;
+  }
+}
+@media (max-width:768px) {
+  #about{
+    margin-top: -555%;
+  }
+}
+
+
 .contact-container {
   display: grid;
   grid-template-columns: 1fr 1fr;
